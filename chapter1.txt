@@ -1,0 +1,31 @@
+
+
+----------------CHAPTER1 ------------
+
+ 1. git commit --amend >>fix one commit ago
+ 2. git status  >> check if there are some changes to commit
+ 3. HEAD  >> last commit at  branch what is currently active but not only one branch
+ 4. git branch  >>>list all branches
+ 5. git branch branch name  >> creates new branch
+ 6. git switch branch name  >>switch to other branch
+ 7. git commit -a -m " comment" staging and commiting all stuff
+ 8. git checkout branch name >> switch to branch and 
+ 9. git switch -c branch name creates and switches to a new branch
+ 10. git stash save changes without commiting 
+ 11. git branch -D >> Delete branch, you should be at other branch
+ 12. git branch -M >> rename branch
+ 13. git merge branch name >>> we should be at HEAD commit branch
+ 14. git stash pop >>> apply changes back
+ fast forward merge
+ merge with conflicts
+ 15. git stash apply  >> aplllies changes to any branch and still keeps it
+ 16. git stash pop >> applies changes and remove from saved status
+ GITHUB =======================
+ 1. git clone URL
+ 2. git remote add <name> URL 
+ 3. git remote add origin URL 
+ 4. git remote -v   check if we have remote repo
+ 5. git remote add origin
+ 
+
+ 
