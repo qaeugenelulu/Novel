@@ -26,6 +26,12 @@
  3. git remote add origin URL 
  4. git remote -v   check if we have remote repo
  5. git remote add origin
+ 6. git push origin  <name of the branch> >>>> pushes branch to github cloud
+ 7. user can push one branch to remote other branch like >>> git push origin cats : master
+ 8. git push -u origin main  >>>upstream we configured it to later use only git push
+ remote tracking branch  
+ 9. git branch -r 
+
  
 
  
