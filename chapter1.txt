@@ -31,6 +31,13 @@
  8. git push -u origin main  >>>upstream we configured it to later use only git push
  remote tracking branch  
  9. git branch -r 
+ 10. git checkout origin/main >>shows state when we last time communicated with github 
+ 11. git branch -r >>shows and knows about all branches
+ 12. git fetch >> fetch latest changes from cloud repo
+ 13. git checkout origin/master >> shows fetched changes
+ 14. git pull origin master >> pull data from repo
+ 15. git rebase -i HEAD~6
+ 16. 
 
  
 
