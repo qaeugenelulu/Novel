@@ -36,7 +36,7 @@
  12. git fetch >> fetch latest changes from cloud repo
  13. git checkout origin/master >> shows fetched changes
  14. git pull origin master >> pull data from repo
- 15. git rebase -i HEAD~6
+ 15. git rebase -i HEAD~6 >> for renaming commits and shuash(making one commit from few)
  16. 
 
  
